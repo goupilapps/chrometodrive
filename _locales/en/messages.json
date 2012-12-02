@@ -1,0 +1,26 @@
+{
+	"ext_name": {
+		"message": "StoreToDrive"
+	},
+	"ext_description": {
+		"message": "Store files from a webpage directly onto your Google Drive™"
+	},
+	"mnu_upload_to_drive": {
+		"message": "Store on Google Drive"
+	},
+	"upload_success": {
+		"message": "File successfully stored!"
+	},
+	"upload_open": {
+		"message": "Click to open"
+	},
+	"upload_failed": {
+		"message": "File could not be stored."
+	},
+	"desc_source": {
+		"message": "Source"
+	},
+	"desc_parent": {
+		"message": "Seen on"
+	}
+}
